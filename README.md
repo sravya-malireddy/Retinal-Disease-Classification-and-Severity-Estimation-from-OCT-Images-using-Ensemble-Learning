@@ -283,7 +283,7 @@ The project also evaluates the models using:
 
 ### Grad-CAM Visualization
 
-<img width="852" height="904" alt="image" src="https://github.com/user-attachments/assets/05d40130-3aa1-4534-ab1f-7e04040328bf" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/05d40130-3aa1-4534-ab1f-7e04040328bf" />
 
 
 ### Clinical Decision Dashboard
