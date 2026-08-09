@@ -278,7 +278,7 @@ The project also evaluates the models using:
 
 ### ROC Curve
 
-<img width="776" height="498" alt="image" src="https://github.com/user-attachments/assets/ae3db6eb-f1cd-496f-a9ee-3220d17ff124" />
+<img width="428" height="400" alt="image" src="https://github.com/user-attachments/assets/ae3db6eb-f1cd-496f-a9ee-3220d17ff124" />
 
 
 ### Grad-CAM Visualization
