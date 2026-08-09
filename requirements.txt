@@ -1,0 +1,10 @@
+| Package          | Used for                                                       |
+| ---------------- | -------------------------------------------------------------- |
+| `tensorflow`     | CNNs, Keras, training, generators, Grad-CAM                    |
+| `numpy`          | Arrays, numerical operations, predictions                      |
+| `pandas`         | Dataset/dataframe handling                                     |
+| `opencv-python`  | OCT image loading, resizing and processing                     |
+| `matplotlib`     | Result and image visualization                                 |
+| `seaborn`        | Visualization                                                  |
+| `scikit-learn`   | Train/validation split, label encoding, class weights, metrics |
+| `albumentations` | Image augmentation                                             |
